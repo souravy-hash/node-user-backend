@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "firstName": "Harry",
+    "lastName": "potter",
+    "email": "HarryPotty@gmail.com",
+    "image": "/uploads/1790668722897-scaled_6ad681fd-0bd4-4030-aac5-2b24f18eeee63119284928173399454.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "sourav",
+    "lastName": "kum",
+    "email": "sourav@gmail.com",
+    "image": "/uploads/1790668751783-scaled_6c8563b8-0a97-409b-a350-f745e046efe73699904261842430283.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "kiran",
+    "lastName": "kiru",
+    "email": "kiran@gmail.com",
+    "image": "/uploads/1790668845860-scaled_30ac133c-8389-4aa8-9294-da605cd8c5215594820496687587224.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "simar",
+    "lastName": "singh",
+    "email": "simar@gmail.com",
+    "image": "/uploads/1790668880807-scaled_e7852107-3ed0-4446-b5cc-7db2801ebcbc5555095747494541771.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "kanish",
+    "lastName": "kum",
+    "email": "kanish@gmail.com",
+    "image": "/uploads/1790668916928-scaled_85d31d4e-1284-4ad3-a3c1-21273e65d5732354204597789864807.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "krishan",
+    "lastName": "kum",
+    "email": "krishan@gmail.com",
+    "image": "/uploads/1790668939953-scaled_946ecf6d-04fd-4924-b002-aed77c94db016154422606854525926.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": "keshav",
+    "lastName": "kum",
+    "email": "keshav@gmail.com",
+    "image": "/uploads/1790669015724-scaled_0b41b5b7-c365-4714-9483-4dd8a2415ed86001364822336419899.jpg"
+  }
+]
